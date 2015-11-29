@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-background-geolocation-deprecated",
-  "version": "0.3.6",
+  "version": "0.3.6-1",
   "description": "NPM version of https://github.com/christocracy/cordova-plugin-background-geolocation",
   "main": "www/BackgroundGeoLocation.js",
   "repository": {
